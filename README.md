@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Lara</strong>
 
-> Tenho 22 anos, sou carioca mais moro atualmente em Foz do Iguaçu, gosto de animais e tecnologia, sou Desenvolvedora Front-end :)
+> Tenho 22 anos, sou carioca mas moro em Foz do Iguaçu, gosto de animais e tecnologia, sou Desenvolvedora Front-end :)
 
 🔭 Atualmente trabalho em uma startup de tecnologia na minha cidade, onde sempre tento trazer novidades sobre a área e desenvolver da melhor forma meus códigos.
 
